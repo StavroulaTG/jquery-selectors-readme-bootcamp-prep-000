@@ -11,5 +11,5 @@ function lastImageSelector() {
 }
 
 function divisionSelector() {
-  return $('.pics')
+  return $('div .pics')
 }
