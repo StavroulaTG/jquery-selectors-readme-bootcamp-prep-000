@@ -10,6 +10,6 @@ function lastImageSelector() {
   return $('img:last')
 }
 
-function divisionSelector() {
+function divSelector() {
   return $('.pics')
 }
